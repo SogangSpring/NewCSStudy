@@ -49,28 +49,25 @@
 - 파일 시스템
 
 ## Database
+
+### 6주차
 - 키(Key) 정리
 - SQL - 기본
 - SQL - JOIN
 - SQL Injection
 - SQL vs NoSQL
 - 레디스(Redis)
+
+### 7주차
 - 정규화(Nomalization)
 - 이상(Anomaly)
 - 인덱스(INDEX)
 - 트랜잭션(Transaction)
 - 트랜잭션 격리 수준(Transaction Isolation Level)
 
-## Computer Architecture
-- 컴퓨터 구조 기초
-- 컴퓨터의 구성
-- 중앙처리장치(CPU) 작동 원리
-- 캐시 메모리
-- 고정 소수점 & 부동 소수점
-- 패리티 비트 & 해밍 코드
-- ARM 프로세서
-
 ## Data Structure
+
+### 7주차
 - Array
 - LinkedList
 - Array & ArrayList & LinkedList
@@ -81,6 +78,15 @@
 - 해시(Hash)
 - 트라이(Trie)
 - B-Tree & B+Tree
+
+## Computer Architecture
+- 컴퓨터 구조 기초
+- 컴퓨터의 구성
+- 중앙처리장치(CPU) 작동 원리
+- 캐시 메모리
+- 고정 소수점 & 부동 소수점
+- 패리티 비트 & 해밍 코드
+- ARM 프로세서
 
 # 스터디 진행 방식
 - 각 주 단위로 정해진 분량의 내용을 공부하고 정리합니다.
