@@ -1,5 +1,16 @@
 # Computer Science Study
 
+알아두면 쓸모 있는 CS 주제를 간단하게 정리하고 스터디하자.
+
+### 스터디원
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/kshired"><img src="https://avatars.githubusercontent.com/u/36851531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김성일</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/mirageoasis"><img src="https://avatars.githubusercontent.com/u/37329424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김현우</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/heewonham"><img src="https://avatars.githubusercontent.com/u/78684994?v=4?s=100" width="100px;" alt=""/><br /><sub><b>함희원</b></sub></a><br /></td>
+  </tr>
+</table>
+
 ## Network
 
 ### [1주차](01주차)
